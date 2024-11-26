@@ -1,4 +1,4 @@
-## Syte Task
+## Names web app
 
 You can run the development server with:
 
